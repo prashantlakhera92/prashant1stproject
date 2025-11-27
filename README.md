@@ -1,4 +1,4 @@
 # prashant1stproject
 This is my first git repository
 <br>
-Author - Prashant lakhera
+Author - Prashant lakhera project
